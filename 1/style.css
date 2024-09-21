@@ -1,0 +1,26 @@
+body {
+    text-align: center; /* Centers text and elements in the body */
+    font-family: Arial, sans-serif; /* Sets a clean, sans-serif font */
+    background-color: #5fb9bc9c; /* Light background color for better contrast */
+    margin: 0;
+    padding: 0;
+}
+
+/* Style for the button */
+.button {
+    background-color: rgb(173, 167, 132); /* Background color of the button */
+    color: white; /* Text color of the button */
+    border: none; /* Removes default button border */
+    border-radius: 5px; /* Rounds the corners of the button */
+    padding: 10px 20px; /* Adds padding inside the button */
+    font-size: 16px; /* Sets the font size */
+    cursor: pointer; /* Changes cursor to pointer on hover */
+    transition: background-color 0.3s; /* Smooth transition for hover effect */
+}
+
+.button:hover {
+    background-color: rgb(121, 13, 119); 
+#greeting {
+    font-size: 18px;
+    margin-top:20px;}
+}
